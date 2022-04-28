@@ -1,0 +1,12 @@
+|Control
+Idle <= <GND>
+Done <= <GND>
+St => ~NO_FANOUT~
+Load <= <GND>
+Sh <= <GND>
+Ad <= <GND>
+Clk => ~NO_FANOUT~
+k => ~NO_FANOUT~
+M => ~NO_FANOUT~
+
+

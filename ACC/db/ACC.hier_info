@@ -1,0 +1,23 @@
+|ACC
+Load => ~NO_FANOUT~
+Sh => ~NO_FANOUT~
+Ad => ~NO_FANOUT~
+Clk => ~NO_FANOUT~
+Entradas[0] => ~NO_FANOUT~
+Entradas[1] => ~NO_FANOUT~
+Entradas[2] => ~NO_FANOUT~
+Entradas[3] => ~NO_FANOUT~
+Entradas[4] => ~NO_FANOUT~
+Entradas[5] => ~NO_FANOUT~
+Entradas[6] => ~NO_FANOUT~
+Entradas[7] => ~NO_FANOUT~
+Saidas[0] << <GND>
+Saidas[1] << <GND>
+Saidas[2] << <GND>
+Saidas[3] << <GND>
+Saidas[4] << <GND>
+Saidas[5] << <GND>
+Saidas[6] << <GND>
+Saidas[7] << <GND>
+
+

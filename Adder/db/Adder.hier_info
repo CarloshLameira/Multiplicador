@@ -1,0 +1,16 @@
+|Adder
+Soma[0] << <GND>
+Soma[1] << <GND>
+Soma[2] << <GND>
+Soma[3] << <GND>
+Soma[4] << <GND>
+OperandoA[0] => ~NO_FANOUT~
+OperandoA[1] => ~NO_FANOUT~
+OperandoA[2] => ~NO_FANOUT~
+OperandoA[3] => ~NO_FANOUT~
+OperandoB[0] => ~NO_FANOUT~
+OperandoB[1] => ~NO_FANOUT~
+OperandoB[2] => ~NO_FANOUT~
+OperandoB[3] => ~NO_FANOUT~
+
+

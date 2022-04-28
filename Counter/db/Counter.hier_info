@@ -1,0 +1,6 @@
+|Counter
+Load => ~NO_FANOUT~
+Clk => ~NO_FANOUT~
+K <= <GND>
+
+
